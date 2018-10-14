@@ -3,7 +3,7 @@
 
 ## Installation
 
-1. Git CLone
+1. Git Clone
 ```
 git clone https://github.com/abidkt/laravel-test.git
 ```
@@ -35,7 +35,7 @@ git clone https://github.com/abidkt/laravel-test.git
 ```
     php artisan serve
 ```
-10. Register an new user and login
+10. Register a new user and login
 
 ## License
 
