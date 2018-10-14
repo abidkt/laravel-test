@@ -23,19 +23,19 @@ git clone https://github.com/abidkt/laravel-test.git
 ```
     php artisan migrate:install
 ```
-6. Run Migration
+7. Run Migration
 ```
     php artisan migrate
 ```
-7. Seed database with test users
+8. Seed database with test users
 ```
     php artisan db:seed
 ```
-8. Run server
+9. Run server
 ```
     php artisan serve
 ```
-9. Register an new user and login
+10. Register an new user and login
 
 ## License
 
