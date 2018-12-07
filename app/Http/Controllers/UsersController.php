@@ -88,7 +88,8 @@ class UsersController extends Controller
      *
      * @return \Excel
      */
-    public function post(Request $request){
+    public function post(Request $request)
+    {
 
 
         $validator = Validator::make($request->all(), [
